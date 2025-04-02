@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f66d1309c562ae940968cc92273a16b6, type: 3}
+  m_Name: Hyper EVM
+  m_EditorClassIdentifier: 
+  Url: https://testnet-chain.sovrun.org/http
+  PrivateKey: b777b8193622fc50ca2ef6a1646a329882452fc81ba112b726c8e4f27effd38a
+  WorldAddress: 0xc0486c816bf8cf963ae3adc5c70016061602d033
+  SequencerUrl: https://ctserver-hl.85dbf.chaintactics.io/chainTacticsSequencerHub
+  ChainId: 418848
